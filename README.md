@@ -5,14 +5,16 @@
 Guiné Equatorial, Guiné-Bissau, Macau, Moçambique, Portugal, São Tomé e Príncipe
 e Timor-Leste)**
 
+## Visão Geral
+
 ## Estudos de caso
 
-- [[2017-07-20] FGV DAPP| Robôs, Redes Sociais e Política no Brasil (PDF; POR; 29pg; 971KB)](http://dapp.fgv.br/robos-redes-sociais-e-politica-estudo-da-fgvdapp-aponta-interferencias-ilegitimas-no-debate-publico-na-web/) <sup>(Pede e-mail)</sup>
+- [[2017-07-20] FGV DAPP \| Robôs, Redes Sociais e Política no Brasil (PDF; POR; 29pg; 971KB)](http://dapp.fgv.br/robos-redes-sociais-e-politica-estudo-da-fgvdapp-aponta-interferencias-ilegitimas-no-debate-publico-na-web/) <sup>(Pede e-mail)</sup>
 
 ## Previsões
 
-- [[2018-11] Access Partnership | Artificial Intelligence for Africa: An Opportunity for Growth, Development, and Democratisation (PDF; ENG; 48pg; 1,4MB)](https://www.accesspartnership.com/cms/access-content/uploads/2018/11/WP-AI-for-Africa.pdf)
-- [[2017] Accenture | How Artificial Intelligence Can Drive South Americas Growth (PDF; ENG; 30pg; 1,5MB)](https://www.accenture.com/_acnmedia/PDF-49/Accenture-How-Artificial-Intelligence-Can-Drive-South-Americas-Growth.pdf)
+- [[2018-11] Access Partnership \| Artificial Intelligence for Africa: An Opportunity for Growth, Development, and Democratisation (PDF; ENG; 48pg; 1,4MB)](https://www.accesspartnership.com/cms/access-content/uploads/2018/11/WP-AI-for-Africa.pdf)
+- [[2017] Accenture \| How Artificial Intelligence Can Drive South Americas Growth (PDF; ENG; 30pg; 1,5MB)](https://www.accenture.com/_acnmedia/PDF-49/Accenture-How-Artificial-Intelligence-Can-Drive-South-Americas-Growth.pdf)
 
 ## Outros
 > _TODO: catalogar esses recursos (fititnt, 2019-03-22 23:47 BRT)_
