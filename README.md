@@ -5,7 +5,7 @@
 **Informações contextuais importantes para pessoas que queiram trabalhar com
 ética em inteligência artificial em países da Comunidade dos Países de Língua
 Portuguesa (CPLP): Angola, Brasil, Cabo Verde, Guiné Equatorial, Guiné-Bissau,
-_Macau*_, Moçambique, Portugal, São Tomé e Príncipe e Timor-Leste)**
+_Macau*_, Moçambique, Portugal, São Tomé e Príncipe e Timor-Leste.**
 
 ---
 
@@ -32,7 +32,8 @@ Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai
 
 | Tema X País | Angola | Brasil | Cabo Verde | Guiné Equatorial | Guiné-Bissau | Macau | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 | ---| ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| População | 29.000.000+ | 210.000.000+ | 560.000+ | 1.221.490+ | 1.792.338+ | 667.400+ | 28.861.863+ | 10.374.822+ | 204.454+ | Timor-Leste |
+| População&nbsp;total | 29.000.000+ | 210.000.000+ | 560.000+ | 1.221.490+ | 1.792.338+ | 667.400+ | 28.861.863+ | 10.374.822+ | 204.454+ | Timor-Leste |
+| Idiomas<br> ([POR]((https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_onde_o_portugu%C3%AAs_%C3%A9_l%C3%ADngua_oficial)) [ENG](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population))| **Português&nbsp;85%+** | **Português&nbsp;99%+** Inglês&nbsp;5%+ | **Português&nbsp;\_\_%+** **[Crioulo&nbsp;\_\_%+](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_cabo-verdiano)** | Espanhol&nbsp;90%+ Francês&nbsp;\_\_%+ **Português&nbsp;\_\_%+** | **Português&nbsp;50%+** [**Crioulo&nbsp;60%+**](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_da_Guin%C3%A9-Bissau) | Chinês&nbsp;\_\_%+ [Cantonês&nbsp;50%+](https://pt.wikipedia.org/wiki/L%C3%ADngua_cantonesa)  Inglês&nbsp;\_\_%+ **Português&nbsp;3‑7%+** | [Línguas&nbsp;Bantas&nbsp;\_\_%+](https://pt.wikipedia.org/wiki/Mo%C3%A7ambique#Idiomas) **Português&nbsp;65%+** [Suaíli&nbsp;\_\_+](https://pt.wikipedia.org/wiki/L%C3%ADngua_sua%C3%ADli) | **Português&nbsp;99%+** Inglês&nbsp;27%+ | **Português&nbsp;99%+** | **[Tétum&nbsp;__%+](https://pt.wikipedia.org/wiki/L%C3%ADngua_t%C3%A9tum)** **Português&nbsp;39%+** |
 | Continente | Africa | América do Sul | Africa  | Africa | Africa | Asia | Africa | Europa | Africa | Sudeste Asiático |
 | <abbr title="Fuso horário da Capital">Fuso Horário</abbr> | UTC+1 | UTC-3 | UTC-1  | UTC+1 | UTC0 | UTC+8 | UTC+2 | UTC−1 | UTC0 | UTC+9 |
 | Domínio de Topo | .ao | .br | .cv  | .gq | .gw | .mo | .mz | .pt | .st | .tl / .tp |
@@ -42,7 +43,7 @@ Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai
 | Tema X País | Angola | Brasil | Cabo Verde | Guiné Equatorial | Guiné-Bissau | Macau | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Wikipédia,&nbsp;País | [Angola](https://pt.wikipedia.org/wiki/Angola) | [Brasil](https://pt.wikipedia.org/wiki/Brasil) | [Cabo&nbsp;Verde](https://pt.wikipedia.org/wiki/Cabo_Verde)  | [Guiné&nbsp;Equatorial](https://pt.wikipedia.org/wiki/Guin%C3%A9_Equatorial) | [Guiné‑Bissau](https://pt.wikipedia.org/wiki/Guin%C3%A9-Bissau) | [Macau](https://pt.wikipedia.org/wiki/Macau) | [Moçambique](https://pt.wikipedia.org/wiki/Mo%C3%A7ambique) | [Portugal](https://pt.wikipedia.org/wiki/Portugal) | [São&nbsp;Tomé&nbsp;e&nbsp;Príncipe](https://pt.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_e_Pr%C3%ADncipe) | [Timor‑Leste](https://pt.wikipedia.org/wiki/Timor-Leste) |
-| Site do Governo | [Angola](http://www.angola.gov.ao) | [Brasil](http://www.brasil.gov.br) | [Cabo Verde](http://www.governo.cv/) | [Guiné Equatorial](https://www.guineaecuatorialpress.com/) | [Guiné-Bissau](http://www.gov.gw/) | [Macau](https://www.gov.mo) | [Moçambique](http://www.portaldogoverno.gov.mz/) | [Portugal](http://www.portugal.gov.pt/) | [São Tomé e Príncipe](http://www.presidencia.st/) | [Timor-Leste](http://www.timor-leste.gov.tl/) |
+| Site do Governo | [Angola](http://www.angola.gov.ao) | [Brasil](http://www.brasil.gov.br) | [Cabo Verde](http://www.governo.cv/) | [Guiné Equatorial](https://www.guineaecuatorialpress.com/) | [Guiné-Bissau](http://www.gov.gw/) | [Macau](https://www.gov.mo/pt/) | [Moçambique](http://www.portaldogoverno.gov.mz/) | [Portugal](http://www.portugal.gov.pt/) | [São Tomé e Príncipe](http://www.presidencia.st/) | [Timor-Leste](http://www.timor-leste.gov.tl/) |
 
 <!--
 Hacks: a primeira linha tem spaço não quebrável "&nbsp; e hífen não quebrável, "‑", para permitir uma renderização melhor no GitHub e n formato site
