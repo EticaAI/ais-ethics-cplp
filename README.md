@@ -1,9 +1,17 @@
 # Contexto tecnológico para fomento de Ética na Inteligência Artificial na CPLP
-![Situação: Trabalho em progresso](img/badges/status-work-in-progress.svg)
+
+[![Banner: Contexto tecnológico para fomento de Ética na Inteligência Artificial na CPLP](img/banner-cplp-etica-ai.png)](https://cplp.etica.ai/)
+
 **Informações contextuais importantes para pessoas que queiram trabalhar com
-ética em inteligência artificial em países da CPLP (Angola, Brasil, Cabo Verde,
-Guiné Equatorial, Guiné-Bissau, Macau, Moçambique, Portugal, São Tomé e Príncipe
-e Timor-Leste)**
+ética em inteligência artificial em países da Comunidade dos Países de Língua
+Portuguesa (CPLP): Angola, Brasil, Cabo Verde, Guiné Equatorial, Guiné-Bissau,
+_Macau*_, Moçambique, Portugal, São Tomé e Príncipe e Timor-Leste)**
+
+---
+
+Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai) \| [brasil.etica.ai](https://brasil.etica.ai) \| [standards.etica.ai](https://standards.etica.ai)
+
+---
 
 # Índice de conteúdo
 
@@ -24,7 +32,7 @@ e Timor-Leste)**
 
 | Tema X País | Angola | Brasil | Cabo Verde | Guiné Equatorial | Guiné-Bissau | Macau | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 | ---| ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| População | 29.000.000+ | 210.000.000+ | 560.000+ | 1.221.490+ | 1.792.338+ | 640.700+ | 28.861.863+ | 10.374.822+ | 204.454+ | Timor-Leste |
+| População | 29.000.000+ | 210.000.000+ | 560.000+ | 1.221.490+ | 1.792.338+ | 667.400+ | 28.861.863+ | 10.374.822+ | 204.454+ | Timor-Leste |
 | Continente | Africa | América do Sul | Africa  | Africa | Africa | Asia | Africa | Europa | Africa | Sudeste Asiático |
 | <abbr title="Fuso horário da Capital">Fuso Horário</abbr> | UTC+1 | UTC-3 | UTC-1  | UTC+1 | UTC0 | UTC+8 | UTC+2 | UTC−1 | UTC0 | UTC+9 |
 | Domínio de Topo | .ao | .br | .cv  | .gq | .gw | .mo | .mz | .pt | .st | .tl / .tp |
