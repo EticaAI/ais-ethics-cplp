@@ -165,3 +165,11 @@ Outras informações rápidas (algumas podem não ser intuitivas):
 ### UCCLA
 - Nome: União das Cidades Capitais Luso-Afro-Américo-Asiáticas
 - Na Wikipédia: <https://pt.wikipedia.org/wiki/Uni%C3%A3o_das_Cidades_Capitais_Luso-Afro-Am%C3%A9rico-Asi%C3%A1ticas>
+
+# Licença
+
+[![Domínio Público](img/dominio-publico.png)](UNLICENSE)
+
+Na medida do possível segundo a lei, [Emerson Rocha](https://github.com/fititnt)
+renunciou a todos os direitos autorais e direitos conexos ou vizinhos a este
+trabalho para o [Domínio Público](UNLICENSE).
