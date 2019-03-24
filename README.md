@@ -2,6 +2,7 @@
 
 [![Banner: Contexto tecnológico para fomento de Ética na Inteligência Artificial na CPLP](img/banner-cplp-etica-ai.png)](https://cplp.etica.ai/)
 
+![Situação: Trabalho em progresso](img/badges/status-work-in-progress.svg)
 **Contexto tecnológico para fomento de Ética na Inteligência Artificial na Comunidade dos Países de Língua Portuguesa
 (CPLP): Angola, Brasil, Cabo Verde, Guiné Equatorial, Guiné-Bissau,
 Macau <sup>[(\*)](#sobre-macau-na-cplp)</sup>, Moçambique, Portugal, São Tomé e Príncipe e
@@ -48,6 +49,10 @@ Este repositório de informações surgiu do [Recursos para pessoas desenvolvedo
 Lista informações e atalhos rápidos sobre os países individualmente.
 
 ### Dados
+
+> Nota: dados como % de acesso a hardware e padrão tipo de acesso a internet
+ainda estão sendo investigados. Mesmo em países grandes a informação pode ser
+divergente e muda com grande velocidade.
 
 | Tema X País | Angola | Brasil | Cabo Verde | Guiné Equatorial | Guiné-Bissau | Macau<sup>[(\*)](#sobre-macau-na-cplp)</sup> | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 | ---| ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -96,7 +101,6 @@ Hacks: a primeira linha tem spaço não quebrável "&nbsp; e hífen não quebrá
   - Mapa interativo com cabos submarinos de conectam a internet mundial
 
 ## Relatórios
-![Situação: Trabalho em progresso](img/badges/status-work-in-progress.svg)
 Estudos de caso e previsões que afetam um ou mais países da CPLP.
 
 ### Estudos de caso
