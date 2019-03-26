@@ -22,7 +22,14 @@ Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai
 - [Visão Geral sobre cada país](#visão-geral-sobre-cada-país)
     - [Dados](#dados)
     - [Atalhos](#atalhos)
+- [Visão Geral sobre toda CPLP](#visão-geral-sobre-toda-cplp)
+    - [Censura](#censura)
+        - [NetBlocks](#netblocks)
+    - [Horário em tempo real](#horário-em-tempo-real)
     - [Infraestrutura](#infraestrutura)
+        - [Cabos submarinos](#cabos-submarinos)
+    - [Tráfego de aviões em tempo real](#tráfego-de-aviões-em-tempo-real)
+    - [Tráfego de navios em tempo real](#tráfego-de-navios-em-tempo-real)
 - [Relatórios](#relatórios)
     - [Estudos de caso](#estudos-de-caso)
     - [Previsões](#previsões)
@@ -46,7 +53,7 @@ Este repositório de informações surgiu do [Recursos para pessoas desenvolvedo
 -->
 
 ## Visão Geral sobre cada país
-Lista informações e atalhos rápidos sobre os países individualmente.
+<!-- Lista informações e atalhos rápidos sobre os países individualmente. -->
 
 ### Dados
 
@@ -85,36 +92,59 @@ baixas em relação aos demais)
 | Site do Governo | [Angola](http://www.angola.gov.ao) | [Brasil](http://www.brasil.gov.br) | [Cabo Verde](http://www.governo.cv/) | [Guiné Equatorial](https://www.guineaecuatorialpress.com/) | [Guiné-Bissau](http://www.gov.gw/) | [Macau](https://www.gov.mo/pt/) | [Moçambique](http://www.portaldogoverno.gov.mz/) | [Portugal](http://www.portugal.gov.pt/) | [São Tomé e Príncipe](http://www.presidencia.st/) | [Timor-Leste](http://www.timor-leste.gov.tl/) |
 | [Human&nbsp;Rights&nbsp;Watch](https://www.hrw.org/pt/sobre-human-rights-watch) | [Angola](https://www.hrw.org/pt/africa/angola) [**Angola&nbsp;2018**](https://www.hrw.org/pt/world-report/2019/country-chapters/326533) | [Brasil](https://www.hrw.org/pt/americas/brasil) [**Brasil&nbsp;2018**](https://www.hrw.org/pt/world-report/2019/country-chapters/326447) | Cabo Verde  | [Guiné Equatorial](https://www.hrw.org/pt/africa/guine-equatorial) | Guiné-Bissau | Macau | [Moçambique](https://www.hrw.org/pt/africa/mocambique) [**Moçambique&nbsp;2018**](https://www.hrw.org/pt/world-report/2019/country-chapters/326532) | Portugal | São Tomé e Príncipe | [Timor-Leste](https://www.hrw.org/pt/asia/timor-leste) |
 
+## Visão Geral sobre toda CPLP
+
+Os links abaixo exibem informações dos países da CPLP ou uma visão geral sobre
+o mundo.
+
+### Censura
+
+#### NetBlocks
+
+- NetBlocks: Site: <https://netblocks.org>; Twitter: <https://twitter.com/netblocks>
+  - Monitora e publica relatórios sobre Censura de Países à Internet
+  - Pode exibir (porém faz questão de diferenciar) perda de acesso a internet por causa de queda de luz
+
+### Horário em tempo real
+- [Link do Time And Date com horários em tempo real das capitais da CPLP](https://www.timeanddate.com/worldclock/personal.html?cities=138,45,685,699,40,754,146,133,733,768&wch=3)
+
+### Infraestrutura
+
+#### Cabos submarinos
+
+- [Submarine Cable Map: Mapa interativo com cabos submarinos de conectam a internet mundial](https://www.submarinecablemap.com/)
+
+### Tráfego de aviões em tempo real
+- [Tráfego de aviões pelo Flight Radar24](https://www.flightradar24.com/0,0/3)
+
+### Tráfego de navios em tempo real
+- [Tráfego de navios pelo Marine Traffic](https://www.marinetraffic.com/pt/ais/home/centerx:15.4/centery:-7.9/zoom:3)
+
 <!--
 Hacks: a primeira linha tem spaço não quebrável "&nbsp; e hífen não quebrável, "‑", para permitir uma renderização melhor no GitHub e n formato site
 
 | Tema X País | Angola | Brasil | Cabo Verde  | Guiné Equatorial | Guiné-Bissau | Macau | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 -->
 
-### Infraestrutura
-> _TODO: catalogar esses recursos (fititnt, 2019-03-22 23:47 BRT)_
-
-- NetBlocks: Site: <https://netblocks.org>; Twitter: <https://twitter.com/netblocks>
-  - Monitora e publica relatórios sobre Censura de Países à Internet
-  - Pode exibir (porém faz questão de diferenciar) perda de acesso a internet por causa de queda de luz
-- [Submarine Cable Map](https://www.submarinecablemap.com/)
-  - Mapa interativo com cabos submarinos de conectam a internet mundial
 
 ## Relatórios
 Estudos de caso e previsões que afetam um ou mais países da CPLP.
 
 ### Estudos de caso
 
-- [[2017-07-20] FGV DAPP \| Robôs, Redes Sociais e Política no Brasil (PDF; POR; 29pg; 971KB)](http://dapp.fgv.br/robos-redes-sociais-e-politica-estudo-da-fgvdapp-aponta-interferencias-ilegitimas-no-debate-publico-na-web/) <sup>(Pede e-mail)</sup>
+- **[[2017-07-20] FGV DAPP \| Robôs, Redes Sociais e Política no Brasil (PDF; POR; 29pg; 971KB)](http://dapp.fgv.br/robos-redes-sociais-e-politica-estudo-da-fgvdapp-aponta-interferencias-ilegitimas-no-debate-publico-na-web/) <sup>(Pede e-mail)</sup>**
+  - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2017-07-20_fgv-dapp_robos-redes-sociais-e-politica-no-brasil(original).pdf)_
 
 ### Previsões
 
 #### Inteligência artificial
 
-- [[2018-11] Access Partnership \| Artificial Intelligence for Africa: An Opportunity for Growth, Development, and Democratisation (PDF; ENG; 48pg; 1,4MB)](https://www.accesspartnership.com/cms/access-content/uploads/2018/11/WP-AI-for-Africa.pdf)
-  - Alternativa: [Cópia de segurança](2018-11_access-partnership_ai-for-africa-growth-development-democratisation(original).pdf)
-  - Alternativa: Tradução automática: [Inteligência Artificial para a África: Uma Oportunidade para o Crescimento, Desenvolvimento e democratização (2,6MB)](https://f.etica.ai/cplp/2018-11_access-partnership_ai-for-africa-growth-development-democratisation(TradAuto.en-pt).pdf)
-- [[2017] Accenture \| How Artificial Intelligence Can Drive South Americas Growth (PDF; ENG; 30pg; 1,5MB)](https://www.accenture.com/_acnmedia/PDF-49/Accenture-How-Artificial-Intelligence-Can-Drive-South-Americas-Growth.pdf)
+- **[[2018-11] Access Partnership \| Artificial Intelligence for Africa: An Opportunity for Growth, Development, and Democratisation (PDF; ENG; 48pg; 1,4MB)](https://www.accesspartnership.com/cms/access-content/uploads/2018/11/WP-AI-for-Africa.pdf)**
+  - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2018-11_access-partnership_ai-for-africa-growth-development-democratisation(original).pdf)_
+  - Alternativa com Tradução automática: _[Inteligência Artificial para a África: Uma Oportunidade para o Crescimento, Desenvolvimento e democratização (2,6MB)](https://f.etica.ai/cplp/2018-11_access-partnership_ai-for-africa-growth-development-democratisation(TradAuto.en-pt).pdf)_
+- **[[2017] Accenture \| How Artificial Intelligence Can Drive South Americas Growth (PDF; ENG; 30pg; 1,5MB)](https://www.accenture.com/_acnmedia/PDF-49/Accenture-How-Artificial-Intelligence-Can-Drive-South-Americas-Growth.pdf)**
+  - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2017_accenture_how-ai-can-drive-south-america-growth(original).pdf)_
+  - Alternativa com Tradução automática: _[Como a inteligência artificial pode impulsionar o crescimento da América do Sul (1,7MB)](https://f.etica.ai/cplp/2017_accenture_how-ai-can-drive-south-america-growth(TradAuto.en.pt).pdf)_
 
 ## Organizações internacionais
 
