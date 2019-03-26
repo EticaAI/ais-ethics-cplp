@@ -112,6 +112,8 @@ Estudos de caso e previsões que afetam um ou mais países da CPLP.
 #### Inteligência artificial
 
 - [[2018-11] Access Partnership \| Artificial Intelligence for Africa: An Opportunity for Growth, Development, and Democratisation (PDF; ENG; 48pg; 1,4MB)](https://www.accesspartnership.com/cms/access-content/uploads/2018/11/WP-AI-for-Africa.pdf)
+  - Alternativa: [Cópia de segurança](2018-11_access-partnership_ai-for-africa-growth-development-democratisation(original).pdf)
+  - Alternativa: Tradução automática: [Inteligência Artificial para a África: Uma Oportunidade para o Crescimento, Desenvolvimento e democratização (2,6MB)](https://f.etica.ai/cplp/2018-11_access-partnership_ai-for-africa-growth-development-democratisation(TradAuto.en-pt).pdf)
 - [[2017] Accenture \| How Artificial Intelligence Can Drive South Americas Growth (PDF; ENG; 30pg; 1,5MB)](https://www.accenture.com/_acnmedia/PDF-49/Accenture-How-Artificial-Intelligence-Can-Drive-South-Americas-Growth.pdf)
 
 ## Organizações internacionais
