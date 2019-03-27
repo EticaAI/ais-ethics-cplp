@@ -32,12 +32,13 @@ Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai
 - [Relatórios](#relatórios)
     - [Estudos de caso](#estudos-de-caso)
     - [Infraestrutura](#infraestrutura-1)
+    - [Inteligência artificial](#inteligência-artificial)
     - [Previsões](#previsões)
-        - [Inteligência artificial](#inteligência-artificial)
 - [Organizações internacionais](#organizações-internacionais)
     - [CPLP](#cplp)
         - [Sobre Macau na CPLP](#sobre-macau-na-cplp)
     - [PALOP](#palop)
+    - [UA](#ua)
     - [UCCLA](#uccla)
 
 <!-- /TOC -->
@@ -140,9 +141,10 @@ Hacks: a primeira linha tem spaço não quebrável "&nbsp; e hífen não quebrá
 | Tema X País | Angola | Brasil | Cabo Verde  | Guiné Equatorial | Guiné-Bissau | Macau | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 -->
 
-
 ## Relatórios
+<!--
 Estudos de caso e previsões que afetam um ou mais países da CPLP.
+-->
 
 ### Estudos de caso
 
@@ -151,13 +153,18 @@ Estudos de caso e previsões que afetam um ou mais países da CPLP.
 
 ### Infraestrutura
 
-- **[2017] PAQUI \| Pan-African Quality Infrastructure, 2017 (PDF; ENG; 36pg; 1,5MB)** <sup>(Link do original temporariamente fora do ar)</sup>
+- **[2017] PAQUI \| Pan-African Quality Infrastructure, 2017 (PDF; ENG; 36pg; 1,5MB)** <sup>(original indisponível)</sup>
   - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2017_paqui_pan-african-quality-infrastructure(original).pdf)_
   - Alternativa com Tradução automática: _[Qualidade da Infra-estrutura Pan-Africana, 2017 (1,7MB)](https://f.etica.ai/cplp/2017_paqui_pan-african-quality-infrastructure(TradAuto.en-pt).pdf)_
 
-### Previsões
+### Inteligência artificial
 
-#### Inteligência artificial
+- **[2018] IEEE-SA: IEEE-SA: Webinar Status Of Artificial Intelligence In Africa, 2018 (PDF; ENG; 36pg; 1,3MB) (Video; 1h25min:49s)**
+  - Video no Youtube: [The Status of Autonomous and Intelligent Systems in Africa (1h25min:49s)](https://www.youtube.com/watch?v=sCzWw3kty7w)
+  - PDF da apresentação: _[Cópia de segurança do original](https://f.etica.ai/cplp/2018_ieee-sa_webinar-status-of-artificial-intelligence-in-africa-2018(original).pdf)_
+  - PDF da apresentação com tradução automática: _[IEEE-SA: Webinar Sobre o Estado da Inteligência Artificial na África, 2018](https://f.etica.ai/cplp/2018_ieee-sa_webinar-status-of-artificial-intelligence-in-africa-2018(TraducaoAutomatica_en-pt).pdf)_
+
+### Previsões
 
 - **[[2018-11] Access Partnership \| Artificial Intelligence for Africa: An Opportunity for Growth, Development, and Democratisation (PDF; ENG; 48pg; 1,4MB)](https://www.accesspartnership.com/cms/access-content/uploads/2018/11/WP-AI-for-Africa.pdf)**
   - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2018-11_access-partnership_ai-for-africa-growth-development-democratisation(original).pdf)_
@@ -205,18 +212,30 @@ Outras informações rápidas (algumas podem não ser intuitivas):
   aterramento do oceano.
 
 ### PALOP
-- Nome: Países Africanos de Língua Oficial Portuguesa
-- Na Wikipédia: <https://pt.wikipedia.org/wiki/Pa%C3%ADses_Africanos_de_L%C3%ADngua_Oficial_Portuguesa>
+- Nome: **Países Africanos de Língua Oficial Portuguesa**
+- Na Wikipédia: [Países Africanos de Língua Oficial Portuguesa (PALOP)](https://pt.wikipedia.org/wiki/Pa%C3%ADses_Africanos_de_L%C3%ADngua_Oficial_Portuguesa)
 - Estados-membro:
   - Angola
   - Cabo Verde
   - Guiné-Bissau
+  - Guiné Equatorial
+  - Moçambique
+  - São Tomé e Príncipe
+
+### UA
+- Nome: **União Africana**
+- Site: <https://au.int/>
+- Estados-membro (da CPLP):
+  - Angola
+  - Cabo Verde
+  - Guiné-Bissau
+  - Guiné Equatorial
   - Moçambique
   - São Tomé e Príncipe
 
 ### UCCLA
-- Nome: União das Cidades Capitais Luso-Afro-Américo-Asiáticas
-- Na Wikipédia: <https://pt.wikipedia.org/wiki/Uni%C3%A3o_das_Cidades_Capitais_Luso-Afro-Am%C3%A9rico-Asi%C3%A1ticas>
+- Nome: **União das Cidades Capitais Luso-Afro-Américo-Asiáticas**
+- Na Wikipédia: [União das Cidades Capitais Luso-Afro-Américo-Asiáticas (UCCLA)](https://pt.wikipedia.org/wiki/Uni%C3%A3o_das_Cidades_Capitais_Luso-Afro-Am%C3%A9rico-Asi%C3%A1ticas)
 
 # Licença
 
