@@ -18,8 +18,7 @@ Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai
 
 <!-- TOC depthFrom:2 depthTo:5 -->
 
-- [Sobre](#sobre)
-- [Visão Geral sobre cada país](#visão-geral-sobre-cada-país)
+- [Visão Geral sobre cada país da CPLP](#visão-geral-sobre-cada-país-da-cplp)
     - [Dados](#dados)
     - [Atalhos](#atalhos)
 - [Visão Geral sobre toda CPLP](#visão-geral-sobre-toda-cplp)
@@ -32,6 +31,7 @@ Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai
     - [Tráfego de navios em tempo real](#tráfego-de-navios-em-tempo-real)
 - [Relatórios](#relatórios)
     - [Estudos de caso](#estudos-de-caso)
+    - [Infraestrutura](#infraestrutura-1)
     - [Previsões](#previsões)
         - [Inteligência artificial](#inteligência-artificial)
 - [Organizações internacionais](#organizações-internacionais)
@@ -42,24 +42,34 @@ Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai
 
 <!-- /TOC -->
 
-## Sobre
+<!--
+
+///## Sobre
 Este repositório de informações pode ser útil tanto para quem quer entender
 o contexto tecnológico de países falantes da língua portuguesa. (...)
 
 _TODO: continuar explicação mínima (fititnt, 2019-03-23 09:53 BRT)_
 
+-->
+
 <!--
 Este repositório de informações surgiu do [Recursos para pessoas desenvolvedoras de periferia](https://periferia.etica.ai/).
 -->
 
-## Visão Geral sobre cada país
+## Visão Geral sobre cada país da CPLP
 <!-- Lista informações e atalhos rápidos sobre os países individualmente. -->
 
 ### Dados
 
+<!-- Nota: para evitar exibir por vários dias um documento incompleto, os campos faltantes serão ocultados por agora na tabela dados (fititnt, 2019-03-27 03:51 BRT) -->
+
+<!--
+
 > Nota: dados como % de acesso a hardware e padrão tipo de acesso a internet
 ainda estão sendo investigados. Mesmo em países grandes a informação pode ser
 divergente e muda com grande velocidade.
+
+-->
 
 | Tema X País | Angola | Brasil | Cabo Verde | Guiné Equatorial | Guiné-Bissau | Macau<sup>[(\*)](#sobre-macau-na-cplp)</sup> | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 | ---| ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -68,6 +78,8 @@ divergente e muda com grande velocidade.
 | Continente | Africa | América do Sul | Africa  | Africa | Africa | Asia | Africa | Europa | Africa | Sudeste Asiático |
 | <abbr title="Fuso horário da Capital">Fuso Horário</abbr> | UTC+1 | UTC-3 | UTC-1  | UTC+1 | UTC0 | UTC+8 | UTC+2 | UTC−1 | UTC0 | UTC+9 |
 | Domínio de Topo | .ao | .br | .cv  | .gq | .gw | .mo | .mz | .pt | .st | .tl / .tp |
+
+<!-- 
 | Computador pessoal | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% |
 | Smartphone | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% |
 | Internet | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% | \_\_% |
@@ -76,6 +88,8 @@ divergente e muda com grande velocidade.
 **Informação importante**: esteja ciente de [viés de sobrevivente <sup>inglês</sup>](https://en.wikipedia.org/wiki/Survivorship_bias)
 ao considerar realidade de países apenas por pessoas que já passaram por algum
 processo de seleção.
+
+-->
 
 <!--
 Geralmente (mas não sempre)
@@ -134,6 +148,12 @@ Estudos de caso e previsões que afetam um ou mais países da CPLP.
 
 - **[[2017-07-20] FGV DAPP \| Robôs, Redes Sociais e Política no Brasil (PDF; POR; 29pg; 971KB)](http://dapp.fgv.br/robos-redes-sociais-e-politica-estudo-da-fgvdapp-aponta-interferencias-ilegitimas-no-debate-publico-na-web/) <sup>(Pede e-mail)</sup>**
   - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2017-07-20_fgv-dapp_robos-redes-sociais-e-politica-no-brasil(original).pdf)_
+
+### Infraestrutura
+
+- **[2017] PAQUI \| Pan-African Quality Infrastructure, 2017 (PDF; ENG; 36pg; 1,5MB)** <sup>(Link do original temporariamente fora do ar)</sup>
+  - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2017_paqui_pan-african-quality-infrastructure(original).pdf)_
+  - Alternativa com Tradução automática: _[Qualidade da Infra-estrutura Pan-Africana, 2017 (1,7MB)](https://f.etica.ai/cplp/2017_paqui_pan-african-quality-infrastructure(TradAuto.en-pt).pdf)_
 
 ### Previsões
 
