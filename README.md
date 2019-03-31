@@ -22,17 +22,20 @@ Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai
     - [Dados](#dados)
     - [Atalhos](#atalhos)
 - [Visão Geral sobre toda CPLP](#visão-geral-sobre-toda-cplp)
-    - [Censura](#censura)
-        - [NetBlocks](#netblocks)
     - [Direitos Humanos](#direitos-humanos)
+        - [Visão geral sobre direitos humanos](#visão-geral-sobre-direitos-humanos)
+            - [Amnesty International](#amnesty-international)
+            - [Human Rights Watch](#human-rights-watch)
         - [Transexualidade](#transexualidade)
             - [transrespect.org](#transrespectorg)
     - [Horário em tempo real](#horário-em-tempo-real)
     - [Infraestrutura](#infraestrutura)
         - [Cabos submarinos](#cabos-submarinos)
+        - [Censura da internet](#censura-da-internet)
+            - [NetBlocks](#netblocks)
     - [Tráfego de aviões em tempo real](#tráfego-de-aviões-em-tempo-real)
     - [Tráfego de navios em tempo real](#tráfego-de-navios-em-tempo-real)
-- [Relatórios](#relatórios)
+- [Relatórios com opção em português](#relatórios-com-opção-em-português)
     - [Estudos de caso](#estudos-de-caso)
     - [Infraestrutura](#infraestrutura-1)
     - [Inteligência artificial](#inteligência-artificial)
@@ -108,37 +111,44 @@ baixas em relação aos demais)
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Wikipédia,&nbsp;País | [Angola](https://pt.wikipedia.org/wiki/Angola) | [Brasil](https://pt.wikipedia.org/wiki/Brasil) | [Cabo&nbsp;Verde](https://pt.wikipedia.org/wiki/Cabo_Verde)  | [Guiné&nbsp;Equatorial](https://pt.wikipedia.org/wiki/Guin%C3%A9_Equatorial) | [Guiné‑Bissau](https://pt.wikipedia.org/wiki/Guin%C3%A9-Bissau) | [Macau](https://pt.wikipedia.org/wiki/Macau) | [Moçambique](https://pt.wikipedia.org/wiki/Mo%C3%A7ambique) | [Portugal](https://pt.wikipedia.org/wiki/Portugal) | [São&nbsp;Tomé&nbsp;e&nbsp;Príncipe](https://pt.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_e_Pr%C3%ADncipe) | [Timor‑Leste](https://pt.wikipedia.org/wiki/Timor-Leste) |
 | Site do Governo | [Angola](http://www.angola.gov.ao) | [Brasil](http://www.brasil.gov.br) | [Cabo Verde](http://www.governo.cv/) | [Guiné Equatorial](https://www.guineaecuatorialpress.com/) | [Guiné-Bissau](http://www.gov.gw/) | [Macau](https://www.gov.mo/pt/) | [Moçambique](http://www.portaldogoverno.gov.mz/) | [Portugal](http://www.portugal.gov.pt/) | [São Tomé e Príncipe](http://www.presidencia.st/) | [Timor-Leste](http://www.timor-leste.gov.tl/) |
-| [Human&nbsp;Rights&nbsp;Watch](https://www.hrw.org/pt/sobre-human-rights-watch) | [Angola](https://www.hrw.org/pt/africa/angola) [**Angola&nbsp;2018**](https://www.hrw.org/pt/world-report/2019/country-chapters/326533) | [Brasil](https://www.hrw.org/pt/americas/brasil) [**Brasil&nbsp;2018**](https://www.hrw.org/pt/world-report/2019/country-chapters/326447) | Cabo Verde  | [Guiné Equatorial](https://www.hrw.org/pt/africa/guine-equatorial) | Guiné-Bissau | Macau | [Moçambique](https://www.hrw.org/pt/africa/mocambique) [**Moçambique&nbsp;2018**](https://www.hrw.org/pt/world-report/2019/country-chapters/326532) | Portugal | São Tomé e Príncipe | [Timor-Leste](https://www.hrw.org/pt/asia/timor-leste) |
+| [Human&nbsp;Rights&nbsp;Watch](#human-rights-watch) | [Angola](https://www.hrw.org/pt/africa/angola) [**Angola&nbsp;2018**](https://www.hrw.org/pt/world-report/2019/country-chapters/326533) | [Brasil](https://www.hrw.org/pt/americas/brasil) [**Brasil&nbsp;2018**](https://www.hrw.org/pt/world-report/2019/country-chapters/326447) | Cabo Verde  | [Guiné Equatorial](https://www.hrw.org/pt/africa/guine-equatorial) | Guiné-Bissau | Macau | [Moçambique](https://www.hrw.org/pt/africa/mocambique) [**Moçambique&nbsp;2018**](https://www.hrw.org/pt/world-report/2019/country-chapters/326532) | Portugal | São Tomé e Príncipe | [Timor-Leste](https://www.hrw.org/pt/asia/timor-leste) |
 
 ## Visão Geral sobre toda CPLP
 
 Os links abaixo exibem informações dos países da CPLP ou uma visão geral sobre
 o mundo.
 
-### Censura
-
-#### NetBlocks
-
-- NetBlocks: Site: <https://netblocks.org>; Twitter: <https://twitter.com/netblocks>
-  - Monitora e publica relatórios sobre Censura de Países à Internet
-  - Pode exibir (porém faz questão de diferenciar) perda de acesso a internet por causa de queda de luz
-
 ### Direitos Humanos
+
+#### Visão geral sobre direitos humanos
+
+##### Amnesty International
+- Site: <https://www.amnesty.org/en/> <sup>(destino em inglês)</sup>
+- Wikipédia: <https://pt.wikipedia.org/wiki/Amnesty_International>
+
+##### Human Rights Watch
+- Site: <https://www.hrw.org/pt>
+- Wikipédia: <https://pt.wikipedia.org/wiki/Human_Rights_Watch>
+
+Saiba mais [sobre a Human Rights Watch ➚](https://www.hrw.org/pt/sobre-human-rights-watch).
 
 #### Transexualidade
 
 ##### transrespect.org
 - Site: <https://transrespect.org> <sup>(destino em inglês)</sup>
-- Visualização em formato de mapa:
-  - [transrespect.org: Proteção legal anti-descriminação de pessoas pessoas transgêneros](https://transrespect.org/en/map/anti-discrimination/) <sup>destino em inglês</sup>
-  - Nota: visite o site para acessar outros mapas temáticos.
+- Mapa temático: [transrespect.org: Proteção legal anti-descriminação de pessoas pessoas transgêneros](https://transrespect.org/en/map/anti-discrimination/) <sup>(destino em inglês)</sup>
+  - Nota: visite o site para acessar outros mapas temáticos; o exibido acima
+    é apenas uma das diversas opções
+- Avisos sobre o uso como referência:
+  - **Informações de transrespect.org podem estar desatualizadas**
+    - Tendência no caso de desatualização: não possuir _evoluções positivas_
+      mais recentes, como alterações em legislação.
 
+<!--
 O site transrespect.org possui informação geral sobre diversos países do mundo
 sobre pontos relacionados respeito e desrespeito no tema transexualidade com
 opção de visualização rápida em formato mapa.
-
-Aviso importante: **informações dele podem estar desatualizadas** (tendência:
-ainda não possuir informações positivas mais recentes).
+-->
 
 ### Horário em tempo real
 - [Link do Time And Date com horários em tempo real das capitais da CPLP](https://www.timeanddate.com/worldclock/personal.html?cities=138,45,685,699,40,754,146,133,733,768&wch=3)
@@ -148,6 +158,14 @@ ainda não possuir informações positivas mais recentes).
 #### Cabos submarinos
 
 - [Submarine Cable Map: Mapa interativo com cabos submarinos de conectam a internet mundial](https://www.submarinecablemap.com/)
+
+#### Censura da internet
+
+##### NetBlocks
+
+- NetBlocks: Site: <https://netblocks.org>; Twitter: <https://twitter.com/netblocks>
+  - Monitora e publica relatórios sobre Censura de Países à Internet
+  - Pode exibir (porém faz questão de diferenciar) perda de acesso a internet por causa de queda de luz
 
 ### Tráfego de aviões em tempo real
 - [Tráfego de aviões pelo Flight Radar24](https://www.flightradar24.com/0,0/3)
@@ -161,10 +179,16 @@ Hacks: a primeira linha tem spaço não quebrável "&nbsp; e hífen não quebrá
 | Tema X País | Angola | Brasil | Cabo Verde  | Guiné Equatorial | Guiné-Bissau | Macau | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 -->
 
-## Relatórios
-<!--
-Estudos de caso e previsões que afetam um ou mais países da CPLP.
--->
+## Relatórios com opção em português
+Os relatórios a seguir tem informações sobre os respectivos temas. Além de link
+para os sites de origem, oferecemos também opção de cópia de segurança do
+arquivo original e, caso não esteja em português, também uma alternativa
+traduzida.
+
+Informação importante: no caso da respectiva organização não fornecer documento
+recomendável na língua portuguesa, a opção (que é é explicitamente informada)
+terá opção feita com tradução automática de máquina. Você pode entrar em contato
+com nossos voluntários caso precise de ajuda humana.
 
 ### Estudos de caso
 
