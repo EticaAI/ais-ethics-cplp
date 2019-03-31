@@ -24,6 +24,9 @@ Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai
 - [Visão Geral sobre toda CPLP](#visão-geral-sobre-toda-cplp)
     - [Censura](#censura)
         - [NetBlocks](#netblocks)
+    - [Direitos Humanos](#direitos-humanos)
+        - [Transexualidade](#transexualidade)
+            - [transrespect.org](#transrespectorg)
     - [Horário em tempo real](#horário-em-tempo-real)
     - [Infraestrutura](#infraestrutura)
         - [Cabos submarinos](#cabos-submarinos)
@@ -119,6 +122,23 @@ o mundo.
 - NetBlocks: Site: <https://netblocks.org>; Twitter: <https://twitter.com/netblocks>
   - Monitora e publica relatórios sobre Censura de Países à Internet
   - Pode exibir (porém faz questão de diferenciar) perda de acesso a internet por causa de queda de luz
+
+### Direitos Humanos
+
+#### Transexualidade
+
+##### transrespect.org
+- Site: <https://transrespect.org> <sup>(destino em inglês)</sup>
+- Visualização em formato de mapa:
+  - [transrespect.org: Proteção legal anti-descriminação de pessoas pessoas transgêneros](https://transrespect.org/en/map/anti-discrimination/) <sup>destino em inglês</sup>
+  - Nota: visite o site para acessar outros mapas temáticos.
+
+O site transrespect.org possui informação geral sobre diversos países do mundo
+sobre pontos relacionados respeito e desrespeito no tema transexualidade com
+opção de visualização rápida em formato mapa.
+
+Aviso importante: **informações dele podem estar desatualizadas** (tendência:
+ainda não possuir informações positivas mais recentes).
 
 ### Horário em tempo real
 - [Link do Time And Date com horários em tempo real das capitais da CPLP](https://www.timeanddate.com/worldclock/personal.html?cities=138,45,685,699,40,754,146,133,733,768&wch=3)
