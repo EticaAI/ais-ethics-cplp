@@ -30,12 +30,16 @@ Veja também: [pt.etica.ai](https://pt.etica.ai) \| [docs.etica.ai/pt](https://d
             - [transrespect.org](#transrespectorg)
     - [Horário em tempo real](#horário-em-tempo-real)
     - [Infraestrutura](#infraestrutura)
-        - [Acesso à Eletricidade](#acesso-à-eletricidade)
+        - [Acesso à eletricidade](#acesso-à-eletricidade)
+        - [Acesso à internet](#acesso-à-internet)
+        - [Acesso à internet de banda larga fixa](#acesso-à-internet-de-banda-larga-fixa)
         - [Cabos submarinos](#cabos-submarinos)
         - [Censura da internet](#censura-da-internet)
             - [NetBlocks](#netblocks)
     - [Tráfego de aviões em tempo real](#tráfego-de-aviões-em-tempo-real)
     - [Tráfego de navios em tempo real](#tráfego-de-navios-em-tempo-real)
+- [Legislação](#legislação)
+    - [Legislação internacional sobre direitos humanos](#legislação-internacional-sobre-direitos-humanos)
 - [Relatórios com opção em português](#relatórios-com-opção-em-português)
     - [Estudos de caso](#estudos-de-caso)
     - [Infraestrutura](#infraestrutura-1)
@@ -85,7 +89,9 @@ divergente e muda com grande velocidade.
 | Idiomas<br> ([POR]((https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_onde_o_portugu%C3%AAs_%C3%A9_l%C3%ADngua_oficial)) [ENG](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population))| **Português&nbsp;85%+** | **Português&nbsp;99%+** Inglês&nbsp;5%+ | **Português&nbsp;\_\_%+** **[Crioulo&nbsp;\_\_%+](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_cabo-verdiano)** | Espanhol&nbsp;90%+ Francês&nbsp;\_\_%+ **Português&nbsp;\_\_%+** | **Português&nbsp;50%+** [**Crioulo&nbsp;60%+**](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_da_Guin%C3%A9-Bissau) | Chinês&nbsp;\_\_%+ [Cantonês&nbsp;50%+](https://pt.wikipedia.org/wiki/L%C3%ADngua_cantonesa)  Inglês&nbsp;\_\_%+ **Português&nbsp;3‑7%+** | [Línguas&nbsp;Bantas&nbsp;\_\_%+](https://pt.wikipedia.org/wiki/Mo%C3%A7ambique#Idiomas) **Português&nbsp;65%+** [Suaíli&nbsp;\_\_+](https://pt.wikipedia.org/wiki/L%C3%ADngua_sua%C3%ADli) | **Português&nbsp;99%+** Inglês&nbsp;27%+ | **Português&nbsp;99%+** | **[Tétum&nbsp;__%+](https://pt.wikipedia.org/wiki/L%C3%ADngua_t%C3%A9tum)** **Português&nbsp;39%+** |
 | Continente | Africa | América do Sul | Africa  | Africa | Africa | Asia | Africa | Europa | Africa | Sudeste Asiático |
 | <abbr title="Fuso horário da Capital">Fuso Horário</abbr> | UTC+1 | UTC-3 | UTC-1  | UTC+1 | UTC0 | UTC+8 | UTC+2 | UTC−1 | UTC0 | UTC+9 |
-| [Acesso à Eletricidade, 2016](#acesso-à-eletricidade) | 40,5% | 100% | 92,6%  | 67.9% | 14,7% | 100% | 24,2% | 100% | 65,4% | 63,4% |
+| [Acesso à Eletricidade, 2016](#acesso-à-eletricidade) | <strong style="color:red">40,5%</strong> | 100% | 92,6%  | 67.9% | <strong style="color:red">14,7%</strong> | 100% | <strong style="color:red">24,2%</strong> | 100% | 65,4% | 63,4% |
+| [Acesso à Internet, 2016](#acesso-à-internet) | <strong style="color:red">13%</strong> | 61% | <strong style="color:red">50%</strong>  | <strong style="color:red">24%</strong> | <strong style="color:red">4%</strong> | 82% | <strong style="color:red">18%</strong> | 70% | <strong style="color:red">28%</strong> | <strong style="color:red">25%</strong> |
+| [Acesso à Internet de banda larga fixa, 2016 (por 100 pessoas)](#acesso-à-internet-de-banda-larga-fixa)| 0,43 | 12,89 | 2,88  | 0,28 | 0,04 | 29,07 | 0,16 | 32,55 | 0,71 | 0,08 |
 | Domínio de Topo | .ao | .br | .cv  | .gq | .gw | .mo | .mz | .pt | .st | .tl / .tp |
 
 <!-- 
@@ -124,6 +130,8 @@ o mundo.
 
 ### Direitos Humanos
 
+Atalho: veja nossa sessão de [Legislação internacional sobre direitos humanos](#legislação-internacional-sobre-direitos-humanos).
+
 #### Visão geral sobre direitos humanos
 
 ##### Amnesty International
@@ -159,9 +167,17 @@ opção de visualização rápida em formato mapa.
 
 ### Infraestrutura
 
-#### Acesso à Eletricidade
+#### Acesso à eletricidade
 
 - [Worldbank Data: Acesso à Eletricidade, 1990-2016, CPLP](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=AO-BR-CV-GW-GQ-MO-MZ-PT-ST-TL) <sup>(destino em inglês)</sup>
+
+#### Acesso à internet
+
+- [Worldbank Data: Acesso à Internet, 1990-2016, CPLP](https://data.worldbank.org/indicator/IT.NET.USER.ZS?end=2016&locations=AO-BR-CV-GW-GQ-MO-MZ-PT-ST-TL&start=1990) <sup>(destino em inglês)</sup>
+
+#### Acesso à internet de banda larga fixa
+
+- [Worldbank Data: Acesso à Internet de banda larga fixa (por 100 pessoas), 1998-2016, CPLP](https://data.worldbank.org/indicator/IT.NET.BBND.P2?end=2016&locations=AO-BR-CV-GW-GQ-MO-MZ-PT-ST-TL&start=1998) <sup>(destino em inglês)</sup>
 
 #### Cabos submarinos
 
@@ -186,6 +202,12 @@ Hacks: a primeira linha tem spaço não quebrável "&nbsp; e hífen não quebrá
 
 | Tema X País | Angola | Brasil | Cabo Verde  | Guiné Equatorial | Guiné-Bissau | Macau | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 -->
+
+## Legislação
+
+### Legislação internacional sobre direitos humanos
+
+Por favor, visite o site dedicado <https://docs.etica.ai/pt/>.
 
 ## Relatórios com opção em português
 Os relatórios a seguir tem informações sobre os respectivos temas. Além de link
