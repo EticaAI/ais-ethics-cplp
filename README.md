@@ -10,7 +10,7 @@ Timor-Leste.**
 
 ---
 
-Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai) \| [brasil.etica.ai](https://brasil.etica.ai) \| [groups.etica.ai](https://groups.etica.ai/) <sup>Inglês</sup> \| [standards.etica.ai](https://standards.etica.ai) <sup>Inglês</sup>
+Veja também: [pt.etica.ai](https://pt.etica.ai) \| [docs.etica.ai/pt](https://docs.etica.ai/pt) \| _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai) \| [brasil.etica.ai](https://brasil.etica.ai) \| [groups.etica.ai](https://groups.etica.ai/) <sup>Inglês</sup> \| [standards.etica.ai](https://standards.etica.ai) <sup>Inglês</sup>
 
 ---
 
@@ -30,6 +30,7 @@ Veja também: _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai
             - [transrespect.org](#transrespectorg)
     - [Horário em tempo real](#horário-em-tempo-real)
     - [Infraestrutura](#infraestrutura)
+        - [Acesso à Eletricidade](#acesso-à-eletricidade)
         - [Cabos submarinos](#cabos-submarinos)
         - [Censura da internet](#censura-da-internet)
             - [NetBlocks](#netblocks)
@@ -84,6 +85,7 @@ divergente e muda com grande velocidade.
 | Idiomas<br> ([POR]((https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_onde_o_portugu%C3%AAs_%C3%A9_l%C3%ADngua_oficial)) [ENG](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population))| **Português&nbsp;85%+** | **Português&nbsp;99%+** Inglês&nbsp;5%+ | **Português&nbsp;\_\_%+** **[Crioulo&nbsp;\_\_%+](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_cabo-verdiano)** | Espanhol&nbsp;90%+ Francês&nbsp;\_\_%+ **Português&nbsp;\_\_%+** | **Português&nbsp;50%+** [**Crioulo&nbsp;60%+**](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_da_Guin%C3%A9-Bissau) | Chinês&nbsp;\_\_%+ [Cantonês&nbsp;50%+](https://pt.wikipedia.org/wiki/L%C3%ADngua_cantonesa)  Inglês&nbsp;\_\_%+ **Português&nbsp;3‑7%+** | [Línguas&nbsp;Bantas&nbsp;\_\_%+](https://pt.wikipedia.org/wiki/Mo%C3%A7ambique#Idiomas) **Português&nbsp;65%+** [Suaíli&nbsp;\_\_+](https://pt.wikipedia.org/wiki/L%C3%ADngua_sua%C3%ADli) | **Português&nbsp;99%+** Inglês&nbsp;27%+ | **Português&nbsp;99%+** | **[Tétum&nbsp;__%+](https://pt.wikipedia.org/wiki/L%C3%ADngua_t%C3%A9tum)** **Português&nbsp;39%+** |
 | Continente | Africa | América do Sul | Africa  | Africa | Africa | Asia | Africa | Europa | Africa | Sudeste Asiático |
 | <abbr title="Fuso horário da Capital">Fuso Horário</abbr> | UTC+1 | UTC-3 | UTC-1  | UTC+1 | UTC0 | UTC+8 | UTC+2 | UTC−1 | UTC0 | UTC+9 |
+| [Acesso à Eletricidade, 2016](#acesso-à-eletricidade) | 40,5% | 100% | 92,6%  | 67.9% | 14,7% | 100% | 24,2% | 100% | 65,4% | 63,4% |
 | Domínio de Topo | .ao | .br | .cv  | .gq | .gw | .mo | .mz | .pt | .st | .tl / .tp |
 
 <!-- 
@@ -95,6 +97,8 @@ divergente e muda com grande velocidade.
 **Informação importante**: esteja ciente de [viés de sobrevivente <sup>inglês</sup>](https://en.wikipedia.org/wiki/Survivorship_bias)
 ao considerar realidade de países apenas por pessoas que já passaram por algum
 processo de seleção.
+
+| Emoji País | :angola: | 🇧🇷 | .cv  | .gq | .gw | .mo | .mz | .pt | .st | .tl / .tp |
 
 -->
 
@@ -154,6 +158,10 @@ opção de visualização rápida em formato mapa.
 - [Link do Time And Date com horários em tempo real das capitais da CPLP](https://www.timeanddate.com/worldclock/personal.html?cities=138,45,685,699,40,754,146,133,733,768&wch=3)
 
 ### Infraestrutura
+
+#### Acesso à Eletricidade
+
+- [Worldbank Data: Acesso à Eletricidade, 1990-2016, CPLP](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=AO-BR-CV-GW-GQ-MO-MZ-PT-ST-TL) <sup>(destino em inglês)</sup>
 
 #### Cabos submarinos
 
