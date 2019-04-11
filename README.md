@@ -8,6 +8,8 @@
 Macau <sup>[(\*)](#sobre-macau-na-cplp)</sup>, Moçambique, Portugal, São Tomé e Príncipe e
 Timor-Leste.**
 
+Visite o site em: <https://cplp.etica.ai/>.
+
 ---
 
 Veja também: [pt.etica.ai](https://pt.etica.ai) \| [docs.etica.ai/pt](https://docs.etica.ai/pt) \| _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai) \| [brasil.etica.ai](https://brasil.etica.ai) \| [groups.etica.ai](https://groups.etica.ai/) <sup>Inglês</sup> \| [standards.etica.ai](https://standards.etica.ai) <sup>Inglês</sup>
@@ -43,6 +45,7 @@ Veja também: [pt.etica.ai](https://pt.etica.ai) \| [docs.etica.ai/pt](https://d
 - [Relatórios com opção em português](#relatórios-com-opção-em-português)
     - [Estudos de caso](#estudos-de-caso)
     - [Infraestrutura](#infraestrutura-1)
+    - [Inovação Humanitária](#inovação-humanitária)
     - [Inteligência artificial](#inteligência-artificial)
     - [Previsões](#previsões)
 - [Organizações internacionais](#organizações-internacionais)
@@ -228,8 +231,17 @@ com nossos voluntários caso precise de ajuda humana.
 ### Infraestrutura
 
 - **[2017] PAQUI \| Pan-African Quality Infrastructure, 2017 (PDF; ENG; 36pg; 1,5MB)** <sup>(original indisponível)</sup>
-  - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2017_paqui_pan-african-quality-infrastructure(original).pdf)_
+  - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2015_hip_refugee-innovation-humanitarian-innovation-that-starts-with-communities(original).pdf)_
   - Alternativa com Tradução automática: _[Qualidade da Infra-estrutura Pan-Africana, 2017 (1,7MB)](https://f.etica.ai/cplp/2017_paqui_pan-african-quality-infrastructure(TradAuto.en-pt).pdf)_
+
+### Inovação Humanitária
+
+- **[[2015] HIP \| Refugee Innovation: Humanitarian innovation that starts with communities (PDF; ENG; 52pg; 5,4MB)](https://www.rsc.ox.ac.uk/files/files-1/refugee-innovation-web-5-3mb.pdf)**
+  - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2015_hip_refugee-innovation-humanitarian-innovation-that-starts-with-communities(original).pdf)_
+  - Alternativa com Tradução automática: _[HIP \| Inovação dos refugiados: inovação humanitária que começa com as comunidades (5,5MB)](https://f.etica.ai/cplp/2015_hip_refugee-innovation-humanitarian-innovation-that-starts-with-communities(TraducaoAutomatica_en-pt).pdf)_
+- **[[2011] UNHCR \| Investing in Solutions: A Practical Guide for the Use of Microfinance in UNHCR operations (PDF; ENG; 88pg; 2,7MB)](https://www.unhcr.org/publications/operations/4eeb17019/investing-solutions-practical-guide-use-microfinance-unhcr-operations.html)**
+  - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2011_unhcr_investing-in-solutions-a-practical-guide-for-the-use-of-microfinance-in-unhcr-operations(original).pdf)_
+  - Alternativa com Tradução automática: _[ACNUR \| Investir em soluções simples: Um Guia Prático para o Uso de Microfinanças em operações da ACNUR (3,5MB)](https://f.etica.ai/cplp/2011_unhcr_investing-in-solutions-a-practical-guide-for-the-use-of-microfinance-in-unhcr-operations(TraducaoAutomatica_en-pt).pdf)_
 
 ### Inteligência artificial
 
