@@ -2,13 +2,12 @@
 
 [![Banner: Contexto tecnológico para fomento de Ética na Inteligência Artificial na CPLP](img/banner-cplp-etica-ai.png)](https://cplp.etica.ai/)
 
-![Situação: Trabalho em progresso](img/badges/status-work-in-progress.svg)
+[![GitHub: EticaAI/ais-ethics-cplp](img/badges/github.svg)](https://github.com/EticaAI/ais-ethics-cplp) [![GitHub: EticaAI/ais-ethics-cplp](img/badges/website.svg)](https://cplp.etica.ai/)
+
 **Contexto tecnológico para fomento de Ética na Inteligência Artificial na Comunidade dos Países de Língua Portuguesa
 (CPLP): Angola, Brasil, Cabo Verde, Guiné Equatorial, Guiné-Bissau,
 Macau <sup>[(\*)](#sobre-macau-na-cplp)</sup>, Moçambique, Portugal, São Tomé e Príncipe e
 Timor-Leste.**
-
-Visite o site em: <https://cplp.etica.ai/>.
 
 ---
 
@@ -327,6 +326,6 @@ Outras informações rápidas (algumas podem não ser intuitivas):
 
 [![Domínio Público](img/dominio-publico.png)](UNLICENSE)
 
-Na medida do possível segundo a lei, [Emerson Rocha](https://github.com/fititnt)
+Na medida do possível segundo a lei, [EticaAI](https://github.com/EticaAI)
 renunciou a todos os direitos autorais e direitos conexos ou vizinhos a este
 trabalho para o [Domínio Público](UNLICENSE).
