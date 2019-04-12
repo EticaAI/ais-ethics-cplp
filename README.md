@@ -104,6 +104,9 @@ divergente e muda com grande velocidade.
 | [Acesso à Eletricidade, 2016](#acesso-à-eletricidade) | <strong style="color:red">40,5%</strong> | 100% | 92,6%  | 67.9% | <strong style="color:red">14,7%</strong> | 100% | <strong style="color:red">24,2%</strong> | 100% | 65,4% | 63,4% |
 | [Acesso à Internet, 2016](#acesso-à-internet) | <strong style="color:red">13%</strong> | 61% | <strong style="color:red">50%</strong>  | <strong style="color:red">24%</strong> | <strong style="color:red">4%</strong> | 82% | <strong style="color:red">18%</strong> | 70% | <strong style="color:red">28%</strong> | <strong style="color:red">25%</strong> |
 | [Acesso à Internet de banda larga fixa, 2016 (por 100 pessoas)](#acesso-à-internet-de-banda-larga-fixa)| 0,43 | 12,89 | 2,88  | 0,28 | 0,04 | 29,07 | 0,16 | 32,55 | 0,71 | 0,08 |
+| Cód. Apha-2 | AO | BR | CV  | GQ | GW | MO | MZ | PT | ST | TL |
+| Cód. Apha-3 | AGO | BRA | CPV  | GNQ | GNB | MAC | MOZ | PRT | STP | TLS |
+| Cód. Numérico | 024 | 076 | 132  | 226 | 624 | 446 | 508 | 620 | 678 | 626 |
 | Domínio de Topo | .ao | .br | .cv  | .gq | .gw | .mo | .mz | .pt | .st | .tl / .tp |
 
 <!-- 
@@ -142,17 +145,18 @@ o mundo.
 
 ### Datasets
 
-#### HDX
-> Atalho: para ver os links por país, veja [tabela de atalhos](#atalhos)
->
-> Atalho: para saber sobre a plataforma, veja [The Humanitarian Data Exchange](#the-humanitarian-data-exchange).
+| Dataset X País | Angola | Brasil | Cabo Verde | Guiné Equatorial | Guiné-Bissau | Macau<sup>[(\*)](#sobre-macau-na-cplp)</sup> | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [HDX](#hdx) | [Angola](https://data.humdata.org/group/ago) | [Brasil](https://data.humdata.org/group/bra) | [Cabo Verde](https://data.humdata.org/group/cpv) | [Guiné Equatorial](https://data.humdata.org/group/gnq) | [Guiné-Bissau](https://data.humdata.org/group/gnb) | [Macau](https://data.humdata.org/group/mac) | [Moçambique](https://data.humdata.org/group/moz) | [Portugal](https://data.humdata.org/group/prt) | [São Tomé e Príncipe](https://data.humdata.org/group/stp) | [Timor-Leste](https://data.humdata.org/group/tls) |
+| [World Bank](#world-bank-open-data) | [Angola](https://data.worldbank.org/country/angola) | [Brasil](https://data.worldbank.org/country/brazil) | [Cabo Verde](https://data.worldbank.org/country/cabo-verde) | [Guiné Equatorial](https://data.worldbank.org/country/equatorial-guinea) | [Guiné-Bissau](https://data.worldbank.org/country/guinea-bissau) | [Macau](https://data.worldbank.org/country/macao-sar-china) | [Moçambique](https://data.worldbank.org/country/mozambique) | [Portugal](https://data.worldbank.org/country/portugal) | [São Tomé e Príncipe](https://data.worldbank.org/country/sao-tome-and-principe) | [Timor-Leste](https://data.worldbank.org/country/timor-leste) |
 
+#### HDX
 - Site: <https://data.humdata.org/> <sup>destino em inglês</sup>
 
 #### World Bank Open Data
-> Atalho: algumas informações do World Bank Open Data já foram adicionadas na [tabela de dados](#dados)
-
-- Site: <https://data.worldbank.org/>
+- Site principal: <https://data.worldbank.org/> <sup>destino em inglês</sup>
+- Visão geral CPLP: <https://data.worldbank.org/?locations=AO-BR-CV-GW-GQ-MO-MZ-PT-ST-TL> <sup>destino em inglês</sup>
+- Visão avançada (ferramenta para gerar gráficos e relatórios) da CPLP: <https://databank.worldbank.org/data/reports.aspx?source=2&country=AGO,BRA,CPV,GNB,GNQ,MAC,MOZ,PRT,STP,TLS> <sup>destino em inglês</sup>
 
 ### Direitos Humanos
 
