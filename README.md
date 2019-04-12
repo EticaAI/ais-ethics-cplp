@@ -2,7 +2,7 @@
 
 [![Banner: Contexto tecnológico para fomento de Ética na Inteligência Artificial na CPLP](img/banner-cplp-etica-ai.png)](https://cplp.etica.ai/)
 
-[![GitHub: EticaAI/ais-ethics-cplp](img/badges/github.svg)](https://github.com/EticaAI/ais-ethics-cplp) [![GitHub: EticaAI/ais-ethics-cplp](img/badges/website.svg)](https://cplp.etica.ai/)
+[![GitHub: EticaAI/ais-ethics-cplp](img/badges/github.svg)](https://github.com/EticaAI/ais-ethics-cplp) [![Website: cplp.etica.ai](img/badges/website.svg)](https://cplp.etica.ai/)
 
 **Contexto tecnológico para fomento de Ética na Inteligência Artificial na Comunidade dos Países de Língua Portuguesa
 (CPLP): Angola, Brasil, Cabo Verde, Guiné Equatorial, Guiné-Bissau,
@@ -53,6 +53,13 @@ Veja também: [pt.etica.ai](https://pt.etica.ai) \| [docs.etica.ai/pt](https://d
     - [PALOP](#palop)
     - [UA](#ua)
     - [UCCLA](#uccla)
+- [Redes recomendadas para fazer parte](#redes-recomendadas-para-fazer-parte)
+    - [Organizações](#organizações)
+        - [EticaAI](#eticaai)
+        - [IEEE SIGHT](#ieee-sight)
+    - [Plataformas online](#plataformas-online)
+        - [GitHub](#github)
+        - [The Humanitarian Data Exchange](#the-humanitarian-data-exchange)
 
 <!-- /TOC -->
 
@@ -321,6 +328,47 @@ Outras informações rápidas (algumas podem não ser intuitivas):
 ### UCCLA
 - Nome: **União das Cidades Capitais Luso-Afro-Américo-Asiáticas**
 - Na Wikipédia: [União das Cidades Capitais Luso-Afro-Américo-Asiáticas (UCCLA)](https://pt.wikipedia.org/wiki/Uni%C3%A3o_das_Cidades_Capitais_Luso-Afro-Am%C3%A9rico-Asi%C3%A1ticas)
+
+## Redes recomendadas para fazer parte
+A seguir lista de redes digitais (sites para fazer cadastro) e organizações que
+estejam alinhadas com o conteúdo proposto neste documento.
+
+### Organizações
+
+#### EticaAI
+- Site: <https://pt.etica.ai>
+
+> Etica.AI preocupa-se com implicações sociais e éticas de inteligência
+artificial de longo prazo na Africa e América Latina. A curto prazo atua
+apoiando movimentos de base.
+
+#### IEEE SIGHT
+- Site: <https://sight.ieee.org/> <sup>destino em inglês</sup>
+
+> Uma rede global de voluntários do IEEE em parceria com comunidades carentes e
+organizações locais para alavancar a tecnologia para o desenvolvimento
+sustentável.
+
+### Plataformas online
+
+#### GitHub
+- Site: <https://github.com> <sup>destino em inglês</sup>
+
+> _"GitHub é uma plataforma de hospedagem de código-fonte com controle de versão
+usando o Git. Ele permite que programadores, utilitários ou qualquer usuário
+cadastrado na plataforma contribuam em projetos privados e/ou Open Source de
+qualquer lugar do mundo."_ — Fonte: [Wikipedia sobre GitHub](https://pt.wikipedia.org/wiki/GitHub)
+
+#### The Humanitarian Data Exchange
+
+- Site: <https://data.humdata.org/> <sup>destino em inglês</sup>
+
+> _"O Humanitarian Data Exchange (HDX) é uma plataforma aberta para compartilhar
+dados entre crises e organizações. Lançado em julho de 2014, o objetivo do HDX
+é tornar os dados humanitários fáceis de encontrar e usar para análise. Nossa
+crescente coleção de conjuntos de dados foi acessada por usuários em mais de 200
+países e territórios. Assista a este vídeo para saber mais."_
+
 
 # Licença
 
