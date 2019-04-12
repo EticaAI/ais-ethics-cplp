@@ -23,6 +23,9 @@ Veja também: [pt.etica.ai](https://pt.etica.ai) \| [docs.etica.ai/pt](https://d
     - [Dados](#dados)
     - [Atalhos](#atalhos)
 - [Visão Geral sobre toda CPLP](#visão-geral-sobre-toda-cplp)
+    - [Datasets](#datasets)
+        - [HDX](#hdx)
+        - [World Bank Open Data](#world-bank-open-data)
     - [Direitos Humanos](#direitos-humanos)
         - [Visão geral sobre direitos humanos](#visão-geral-sobre-direitos-humanos)
             - [Amnesty International](#amnesty-international)
@@ -53,11 +56,11 @@ Veja também: [pt.etica.ai](https://pt.etica.ai) \| [docs.etica.ai/pt](https://d
     - [PALOP](#palop)
     - [UA](#ua)
     - [UCCLA](#uccla)
-- [Redes recomendadas para fazer parte](#redes-recomendadas-para-fazer-parte)
+- [Redes para fazer parte](#redes-para-fazer-parte)
     - [Organizações](#organizações)
-        - [EticaAI](#eticaai)
+        - [Etica.AI](#eticaai)
         - [IEEE SIGHT](#ieee-sight)
-    - [Plataformas online](#plataformas-online)
+    - [Plataformas colaborativas](#plataformas-colaborativas)
         - [GitHub](#github)
         - [The Humanitarian Data Exchange](#the-humanitarian-data-exchange)
 
@@ -137,9 +140,23 @@ baixas em relação aos demais)
 Os links abaixo exibem informações dos países da CPLP ou uma visão geral sobre
 o mundo.
 
+### Datasets
+
+#### HDX
+> Atalho: para ver os links por país, veja [tabela de atalhos](#atalhos)
+>
+> Atalho: para saber sobre a plataforma, veja [The Humanitarian Data Exchange](#the-humanitarian-data-exchange).
+
+- Site: <https://data.humdata.org/> <sup>destino em inglês</sup>
+
+#### World Bank Open Data
+> Atalho: algumas informações do World Bank Open Data já foram adicionadas na [tabela de dados](#dados)
+
+- Site: <https://data.worldbank.org/>
+
 ### Direitos Humanos
 
-Atalho: veja nossa sessão de [Legislação internacional sobre direitos humanos](#legislação-internacional-sobre-direitos-humanos).
+> Atalho: veja nossa sessão de [Legislação internacional sobre direitos humanos](#legislação-internacional-sobre-direitos-humanos).
 
 #### Visão geral sobre direitos humanos
 
@@ -329,13 +346,18 @@ Outras informações rápidas (algumas podem não ser intuitivas):
 - Nome: **União das Cidades Capitais Luso-Afro-Américo-Asiáticas**
 - Na Wikipédia: [União das Cidades Capitais Luso-Afro-Américo-Asiáticas (UCCLA)](https://pt.wikipedia.org/wiki/Uni%C3%A3o_das_Cidades_Capitais_Luso-Afro-Am%C3%A9rico-Asi%C3%A1ticas)
 
-## Redes recomendadas para fazer parte
-A seguir lista de redes digitais (sites para fazer cadastro) e organizações que
-estejam alinhadas com o conteúdo proposto neste documento.
+## Redes para fazer parte
+O projeto [cplp.etica.ai](https://cplp.etica.ai), disponibilizado sob licença
+domínio público, explícitamente dá liberdade para você fazer o que quiser com
+estas informações, até mesmo usar como base para seus projetos pessoais ou até
+criar novos grupos ou organizações sem obrigação de citar referências. Dito
+isso, as recomendações a seguir são apresentadas aqui apenas por serem sugestões
+para pessoas que já são membros da organização [Etica.AI](#eticaai), e não são
+uma exigência, nem mesmo implícita, para os demais.
 
 ### Organizações
 
-#### EticaAI
+#### Etica.AI
 - Site: <https://pt.etica.ai>
 
 > Etica.AI preocupa-se com implicações sociais e éticas de inteligência
@@ -349,7 +371,11 @@ apoiando movimentos de base.
 organizações locais para alavancar a tecnologia para o desenvolvimento
 sustentável.
 
-### Plataformas online
+### Plataformas colaborativas
+As recomendações a seguir permitem cadastro gratúito e são usadas por diversas
+organizações como forma de troca de informações. Ao fazer cadastro, mesmo que
+você inicialmente não seja uma pessoa criadora de conteúdo, pode ao menos
+customizar recebimento de informações pertinentes aos seus interesses.
 
 #### GitHub
 - Site: <https://github.com> <sup>destino em inglês</sup>
