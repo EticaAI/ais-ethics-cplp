@@ -9,6 +9,12 @@
 Macau <sup>[(\*)](#sobre-macau-na-cplp)</sup>, Moçambique, Portugal, São Tomé e Príncipe e
 Timor-Leste.**
 
+O repositório cplp.etica.ai é especialmente voltado para objetivos de médio e
+longo prazo da Etica.AI e é focado para pessoas falantes de português e/ou que
+atuem na CPLP. Isso quer dizer que neste ano de 2019 as informações contidas
+aqui tendem a ser as também utilizadas por outros projetos de aplicabilidade
+mais imediata.
+
 ---
 
 Veja também: [pt.etica.ai](https://pt.etica.ai) \| [docs.etica.ai/pt](https://docs.etica.ai/pt) \| _cplp.etica.ai_ \| [periferia.etica.ai](https://periferia.etica.ai) \| [brasil.etica.ai](https://brasil.etica.ai) \| [groups.etica.ai](https://groups.etica.ai/) <sup>Inglês</sup> \| [standards.etica.ai](https://standards.etica.ai) <sup>Inglês</sup>
@@ -62,6 +68,8 @@ Veja também: [pt.etica.ai](https://pt.etica.ai) \| [docs.etica.ai/pt](https://d
     - [UA](#ua)
     - [UCCLA](#uccla)
 - [Redes para fazer parte](#redes-para-fazer-parte)
+    - [Grupos](#grupos)
+        - [groups.etica.ai](#groupseticaai)
     - [Organizações](#organizações)
         - [Etica.AI](#eticaai)
         - [IEEE SIGHT](#ieee-sight)
@@ -159,7 +167,7 @@ outros atalhos aidna mais específicos.
 | Tema X País | Angola | Brasil | Cabo Verde | Guiné Equatorial | Guiné-Bissau | Macau<sup>[(\*)](#sobre-macau-na-cplp)</sup> | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Wikipédia,&nbsp;País | [Angola](https://pt.wikipedia.org/wiki/Angola) | [Brasil](https://pt.wikipedia.org/wiki/Brasil) | [Cabo&nbsp;Verde](https://pt.wikipedia.org/wiki/Cabo_Verde)  | [Guiné&nbsp;Equatorial](https://pt.wikipedia.org/wiki/Guin%C3%A9_Equatorial) | [Guiné‑Bissau](https://pt.wikipedia.org/wiki/Guin%C3%A9-Bissau) | [Macau](https://pt.wikipedia.org/wiki/Macau) | [Moçambique](https://pt.wikipedia.org/wiki/Mo%C3%A7ambique) | [Portugal](https://pt.wikipedia.org/wiki/Portugal) | [São&nbsp;Tomé&nbsp;e&nbsp;Príncipe](https://pt.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_e_Pr%C3%ADncipe) | [Timor‑Leste](https://pt.wikipedia.org/wiki/Timor-Leste) |
-| Site do Governo | [Angola](http://www.angola.gov.ao) | [Brasil](http://www.brasil.gov.br) | [Cabo Verde](http://www.governo.cv/) | [Guiné Equatorial](https://www.guineaecuatorialpress.com/) | [Guiné-Bissau](http://www.gov.gw/) | [Macau](https://www.gov.mo/pt/) | [Moçambique](http://www.portaldogoverno.gov.mz/) | [Portugal](http://www.portugal.gov.pt/) | [São Tomé e Príncipe](http://www.presidencia.st/) | [Timor-Leste](http://www.timor-leste.gov.tl/) |
+| Site do Governo | [Angola](https://www.governo.gov.ao/) | [Brasil](http://www.brasil.gov.br) | [Cabo Verde](http://www.governo.cv/) | [Guiné Equatorial](https://www.guineaecuatorialpress.com/) | [Guiné-Bissau](http://www.gov.gw/) | [Macau](https://www.gov.mo/pt/) | [Moçambique](http://www.portaldogoverno.gov.mz/) | [Portugal](http://www.portugal.gov.pt/) | [São Tomé e Príncipe](http://www.presidencia.st/) | [Timor-Leste](http://www.timor-leste.gov.tl/) |
 
 ## Visão Geral sobre toda CPLP
 
@@ -405,6 +413,7 @@ Outras informações rápidas (algumas podem não ser intuitivas):
 - Na Wikipédia: [União das Cidades Capitais Luso-Afro-Américo-Asiáticas (UCCLA)](https://pt.wikipedia.org/wiki/Uni%C3%A3o_das_Cidades_Capitais_Luso-Afro-Am%C3%A9rico-Asi%C3%A1ticas)
 
 ## Redes para fazer parte
+<!--
 O projeto [cplp.etica.ai](https://cplp.etica.ai), disponibilizado sob licença
 domínio público, explícitamente dá liberdade para você fazer o que quiser com
 estas informações, até mesmo usar como base para seus projetos pessoais ou até
@@ -412,6 +421,16 @@ criar novos grupos ou organizações sem obrigação de citar referências. Dito
 isso, as recomendações a seguir são apresentadas aqui apenas por serem sugestões
 para pessoas que já são membros da organização [Etica.AI](#eticaai), e não são
 uma exigência, nem mesmo implícita, para os demais.
+-->
+
+### Grupos
+
+#### groups.etica.ai
+- Site: <https://groups.etica.ai/> <sup>destino em inglês</sup>
+
+Nós da Etica.AI mantemos um repositório dedicado de grupos abertos que sejam
+acessíveis para pessoas que ainda não são especialistas mas que desejam se
+envolver em discussões sobre ética de sistemas autônimos e inteligêntes.
 
 ### Organizações
 
@@ -452,7 +471,6 @@ dados entre crises e organizações. Lançado em julho de 2014, o objetivo do HD
 é tornar os dados humanitários fáceis de encontrar e usar para análise. Nossa
 crescente coleção de conjuntos de dados foi acessada por usuários em mais de 200
 países e territórios. Assista a este vídeo para saber mais."_
-
 
 # Licença
 
