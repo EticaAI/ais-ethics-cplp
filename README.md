@@ -31,6 +31,7 @@ Veja também: [pt.etica.ai](https://pt.etica.ai) \| [docs.etica.ai/pt](https://d
     - [Atalhos](#atalhos)
 - [Visão Geral sobre toda CPLP](#visão-geral-sobre-toda-cplp)
     - [Datasets](#datasets)
+        - [GBIF](#gbif)
         - [HDX](#hdx)
         - [linguistic-datasets-pt.etica.ai](#linguistic-datasets-pteticaai)
         - [World Bank Open Data](#world-bank-open-data)
@@ -183,10 +184,23 @@ visualização rápida.
 
 | Dataset X País | Angola | Brasil | Cabo Verde | Guiné Equatorial | Guiné-Bissau | Macau<sup>[(\*)](#sobre-macau-na-cplp)</sup> | Moçambique | Portugal | São Tomé e Príncipe | Timor-Leste |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [GBIF](#gbif) | [Angola](https://www.gbif.org/pt/country/AO/participation) | [Brasil](https://www.gbif.org/pt/country/BR/participation) | [Cabo Verde](https://www.gbif.org/pt/country/CV/about) | [Guiné Equatorial](https://www.gbif.org/pt/country/GQ/about) | [Guiné-Bissau](https://www.gbif.org/pt/country/GW/about) | [Macau](https://www.gbif.org/pt/country/MO/about) | [Moçambique](https://www.gbif.org/pt/country/MZ/about) | [Portugal](https://www.gbif.org/pt/country/PT/participation) | [São Tomé e Príncipe](https://www.gbif.org/pt/country/ST/about) | [Timor-Leste](https://www.gbif.org/pt/country/TL/about) |
 | [HDX](#hdx) | [Angola](https://data.humdata.org/group/ago) | [Brasil](https://data.humdata.org/group/bra) | [Cabo Verde](https://data.humdata.org/group/cpv) | [Guiné Equatorial](https://data.humdata.org/group/gnq) | [Guiné-Bissau](https://data.humdata.org/group/gnb) | [Macau](https://data.humdata.org/group/mac) | [Moçambique](https://data.humdata.org/group/moz) | [Portugal](https://data.humdata.org/group/prt) | [São Tomé e Príncipe](https://data.humdata.org/group/stp) | [Timor-Leste](https://data.humdata.org/group/tls) |
 | [World Bank](#world-bank-open-data) | [Angola](https://data.worldbank.org/country/angola) | [Brasil](https://data.worldbank.org/country/brazil) | [Cabo Verde](https://data.worldbank.org/country/cabo-verde) | [Guiné Equatorial](https://data.worldbank.org/country/equatorial-guinea) | [Guiné-Bissau](https://data.worldbank.org/country/guinea-bissau) | [Macau](https://data.worldbank.org/country/macao-sar-china) | [Moçambique](https://data.worldbank.org/country/mozambique) | [Portugal](https://data.worldbank.org/country/portugal) | [São Tomé e Príncipe](https://data.worldbank.org/country/sao-tome-and-principe) | [Timor-Leste](https://data.worldbank.org/country/timor-leste) |
 
+#### GBIF
+- Título:
+  - Português: **Sistema Global de Informação sobre Biodiversidade**
+  - Inglês: **Global Biodiversity Information Facility**
+- Site: <https://www.gbif.org/pt/>
+
+O GBIF — Sistema Global de Informação sobre Biodiversidade — é uma rede
+internacional e infraestrutura de investigação financiada por governos de todo
+o mundo, com o objetivo de dar a qualquer pessoa, em qualquer lugar, acesso
+aberto a dados sobre toda a vida na Terra.
+
 #### HDX
+- Título: **Humanitarian Data Exchange**
 - Site: <https://data.humdata.org/> <sup>destino em inglês</sup>
 
 #### linguistic-datasets-pt.etica.ai
