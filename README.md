@@ -334,7 +334,7 @@ com nossos voluntários caso precise de ajuda humana.
 ### Infraestrutura
 
 - **[2017] PAQUI \| Pan-African Quality Infrastructure, 2017 (PDF; ENG; 36pg; 1,5MB)** <sup>(original indisponível)</sup>
-  - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2015_hip_refugee-innovation-humanitarian-innovation-that-starts-with-communities(original).pdf)_
+  - Alternativa: _[Cópia de segurança do original](https://f.etica.ai/cplp/2017_paqui_pan-african-quality-infrastructure(original).pdf)_
   - Alternativa com Tradução automática: _[Qualidade da Infra-estrutura Pan-Africana, 2017 (1,7MB)](https://f.etica.ai/cplp/2017_paqui_pan-african-quality-infrastructure(TradAuto.en-pt).pdf)_
 
 ### Inovação Humanitária
